@@ -2,7 +2,7 @@
 
 This project allows you to sync your myCPE planning with Google Agenda and other calendars app using the iCalendar format !
 
-If you've experienced using the myCPE you'll know why :)
+If you've experienced using the myCPE app you'll know why :)
 
 ## 🌌 Hosted
 
