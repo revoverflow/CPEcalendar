@@ -1,0 +1,22 @@
+{
+  "name": "cpecalendar",
+  "version": "1.0.0",
+  "description": "CPEcalendar fetches your planning from the myCPE API in order to serve a parsable file for your calendar apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revoverflow/CPEcalendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "revoverflow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revoverflow/CPEcalendar/issues"
+  },
+  "homepage": "https://github.com/revoverflow/CPEcalendar#readme"
+}
