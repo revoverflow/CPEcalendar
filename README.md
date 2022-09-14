@@ -8,7 +8,9 @@ If you've experienced using the myCPE you'll know why :)
 
 If you want to use this software without any setup you can use the hosted version.
 
-**I'm working on it...**
+```
+https://3lc4vo.deta.dev/?email=your.name@cpe.fr&password=YOURPASSWORD
+```
 
 ## 🏡 Setup a self-hosted instance
 
