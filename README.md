@@ -9,7 +9,7 @@ If you ever experienced using the myCPE app you'll know why :)
 If you want to use this software without any setup you can use the hosted version.
 
 ```
-https://3lc4vo.deta.dev/?email=your.name@cpe.fr&password=YOURPASSWORD
+https://cpecalendar.deta.dev/?email=your.name@cpe.fr&password=YOURPASSWORD
 ```
 
 ## 🏡 Setup a self-hosted instance
@@ -20,7 +20,7 @@ First install all dependencies using npm :
 npm i
 ```
 
-You can then configure on what port the HTTP server will be running in the "config.json" file :
+You can then configure on what port the HTTP server will be running and how much weeks will be fetched in the "config.json" file :
 
 ```json
 {
